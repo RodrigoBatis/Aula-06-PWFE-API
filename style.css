@@ -1,0 +1,18 @@
+
+body{
+    background-color: grey;
+}
+
+#imagem-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 5px;
+    background-color: grey;
+}
+
+#imagem-container img{
+    height: 300px;
+    width: 300px;
+}
+
